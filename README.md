@@ -1,4 +1,4 @@
-This was a fun Lab that I did for GCP using Terraform!
+This was a project that I did for GCP using Terraform!
 
 A European gaming company is moving to GCP.  It has the following requirements in it's first stage migration to the Cloud:
 
